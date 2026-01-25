@@ -1,13 +1,3 @@
-/*
-    Auth.cpp
-    Author: [Your Name]
-    Roll Number: [Your Roll Number]
-    Project Title: Xonix Game - DSA Project
-
-    Description:
-    This file contains the implementation of the Auth class methods.
-*/
-
 #include "Auth.h"
 #include <fstream>
 #include <ctime>

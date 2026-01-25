@@ -1,15 +1,3 @@
-/*
-    AVLTree.h
-    Author: [Your Name]
-    Roll Number: [Your Roll Number]
-    Project Title: Xonix Game - Data Structures and Algorithms Project
-
-    Description:
-    This file contains the implementation of an AVL Tree data structure.
-    The AVL Tree is used for storing and organizing game themes in the inventory system.
-    It provides efficient searching, insertion, and traversal operations.
-*/
-
 #ifndef AVLTREE_H
 #define AVLTREE_H
 

@@ -1,13 +1,3 @@
-/*
-    Auth.h
-    Author: [Your Name]
-    Roll Number: [Your Roll Number]
-    Project Title: Xonix Game - DSA Project
-
-    Description:
-    This file contains the Auth class which handles user authentication and registration.
-*/
-
 #ifndef AUTH_H
 #define AUTH_H
 

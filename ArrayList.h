@@ -1,15 +1,3 @@
-/*
-    ArrayList.h
-    Author: [Your Name]
-    Roll Number: [Your Roll Number]
-    Project Title: Xonix Game - Data Structures and Algorithms Project
-
-    Description:
-    This file contains the implementation of a dynamic Array List data structure.
-    The Array List is used for storing all player information in the game system.
-    It allows for efficient indexed access and dynamic resizing.
-*/
-
 #ifndef ARRAYLIST_H
 #define ARRAYLIST_H
 
